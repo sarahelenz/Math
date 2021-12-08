@@ -1,6 +1,6 @@
 public class Math {
-    public static double E = 2.71828;
-    public static double PI = 3.14159;
+    final static double E = 2.71828;
+    final static double PI = 3.14159;
 
     public static double abs(double a){
         if(a < 0){
